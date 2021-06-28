@@ -7,3 +7,4 @@
 * Make sure your `redirect_uri` is set to `http://127.0.0.1:3000/authorize` unless changed in the `config.json`.
 * Copy the `client_id` and `client_secret` and place them in the `config.json` under `SpotifyApi`
 * Use `node DiscordTitle.js` to start up the program.
+* Make sure Discord is running
