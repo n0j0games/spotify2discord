@@ -1,6 +1,6 @@
 # spotify2discord
 
-## How to use:
+### Installation & run:
 * Install [Node.js](https://nodejs.org/en/)
 * cd into the directory and use `npm i` to initialize Node in this directory
 * Head to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications) and create an application.
