@@ -1,7 +1,7 @@
 {
-  "name": "discordTitle",
+  "name": "spotify2discord",
   "version": "0.0.1",
-  "description": "",
+  "description": "Showing current playing from Spotify in Discord status",
   "main": "DiscordTitle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
