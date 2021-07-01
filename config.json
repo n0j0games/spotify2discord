@@ -6,6 +6,5 @@
 		"redirect_uri": "http://127.0.0.1:3000/authorize"
 	},
 	"callback_port": 3000,
-	"song_refresh": 2500,
-	"resync_time": 100000
+	"song_refresh": 2500
 }
