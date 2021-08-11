@@ -9,4 +9,4 @@
 * Use `node DiscordTitle.js` to start up the program
 * Alternatively use `runInBackground.vbs` to run the program without visible console
 
-#### Make sure Discord is running or the app will quit
+#### Make sure Discord is running before starting the app
