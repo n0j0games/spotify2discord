@@ -1,8 +1,8 @@
 {
 	"DiscordToken": "optional!",
 	"SpotifyApi": {
-		"client_id": "941103e4872f4d3fad60066c677df34f",
-		"client_secret": "4f64d7098a81473db9444407b1a1c54f",
+		"client_id": "PASTE HERE",
+		"client_secret": "PASTE HERE",
 		"redirect_uri": "http://127.0.0.1:3000/authorize"
 	},
 	"callback_port": 3000,
