@@ -11,4 +11,4 @@
 
 #### Make sure Discord is running before starting the app
 
-discordTitle.js is adapted from [sadboilogan's DiscordLyrics.js](https://github.com/sadboilogan/DiscordLyrics)
+Note: discordTitle.js is adapted from [sadboilogan's DiscordLyrics.js](https://github.com/sadboilogan/DiscordLyrics). Check it out!
