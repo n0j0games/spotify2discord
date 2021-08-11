@@ -11,6 +11,6 @@
 * Use `node DiscordTitle.js` to start up the program
 * Alternatively use `runInBackground.vbs` to run the program without visible console
 
-#### Make sure Discord is running before starting the app
+#### Make sure Discord is running before starting the app (If you won't enter a Discord token)
 
 Note: discordTitle.js is adapted from [sadboilogan's DiscordLyrics.js](https://github.com/sadboilogan/DiscordLyrics). Check it out!
