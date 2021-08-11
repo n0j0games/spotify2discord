@@ -1,5 +1,7 @@
 # spotify2discord
 
+![](https://i.imgur.com/FdA70QT.png)
+
 ### Installation & run:
 * Install [Node.js](https://nodejs.org/en/)
 * cd into the directory and use `npm i` to initialize Node in this directory
