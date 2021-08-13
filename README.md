@@ -1,3 +1,6 @@
+![GitHub package.json version](https://img.shields.io/github/package-json/v/n0j0games/spotify2discord?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/n0j0games/spotify2discord?style=flat-square)
+
 # spotify2discord
 
 ![](https://i.imgur.com/FdA70QT.png)
